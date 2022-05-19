@@ -1,0 +1,18 @@
+{
+    "name": "Avyansh",
+    "lang": "en",
+     "theme_color": "#111827",
+     "background_color": "#111827",
+     "display": "fullscreen",
+     "orientation": "portrait",
+     "scope": "/",
+     "start_url": "/",
+    "icons": [
+     {
+      "src": "https://avatars.githubusercontent.com/u/75159744?v=4",
+      "sizes": "512x512",
+      "type": "image\/png",
+      "density": "5.0"
+     }
+    ]
+   }
